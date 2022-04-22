@@ -92,9 +92,9 @@ body{
     align-items: center;
 }
 .instagram-divisor{
-    display: flex; /* vira um flex container ( todos os itens dele vão ficar em linha ocupando o mair espaço ) */
-    align-items: center; /* alinha os itens no centro vertical */
-    justify-content: center; /* alinha os itens no centro na orizonal */
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
     height: 44rem;
 }

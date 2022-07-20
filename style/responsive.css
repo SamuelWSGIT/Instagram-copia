@@ -1,0 +1,21 @@
+@media screen and (max-width:655px) {  
+    body {
+        width: 100%;
+        min-height: 100vh;
+        align-items: flex-start;
+        background-color: #fafafa;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+        align-content: space-around;
+    }
+    .instagram-celular{
+        display: none;
+    }
+}
+@media screen and (max-height:724px) {  
+    .links{
+        display: none;
+    }
+}

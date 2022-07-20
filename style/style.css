@@ -7,14 +7,16 @@
     font-size: 12px;
 }
 
-body{
+body {
     width: 100%;
     min-height: 100vh;
     align-items: center;
     background-color: #fafafa;
     margin: 0;
     padding: 0;
-    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
 }
 .bodydireito{
     align-items: center;
@@ -84,19 +86,23 @@ body{
     color: #0095f6;
 }
 .corpo1{
+    width: 100%;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.corpo2{
+.corpo2 {
+    display: flex;
+    height: 100vh;
     align-items: center;
+    flex-wrap: wrap;
 }
 .instagram-divisor{
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 44rem;
 }
 .caixas{
     display: flex;
@@ -192,10 +198,10 @@ body{
     flex-direction: column;
     align-items: center;
     display: flex;
-    position: absolute;
     text-align: center;
     height: 85px;
     width: 100%;
+    position: absolute;
 }
 .links a{
     font-size: 11px;

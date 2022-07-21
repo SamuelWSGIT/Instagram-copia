@@ -53,11 +53,13 @@ body {
     height: 35rem;
     width: 25rem;
 }
-.instagram-login{
+.instagram-login {
     justify-content: center;
     align-items: center;
     height: 35rem;
     width: 25rem;
+    display: flex;
+    flex-wrap: wrap;
 }
 .caixas{
     display: flex;
@@ -98,6 +100,10 @@ body {
     margin-bottom: 10px;
     padding-left: 5px;
 }
+.entrar:hover{
+    background-color: rgba(56, 175, 255, 0.3);
+}
+
 .entrar p b{
     font-size: 11px;
 }
@@ -138,11 +144,8 @@ body {
 .cadastre-se{
     color: #0095f6;
 }
-
-.preecher{
+input{
     color: #8e8e8e;
-}
-.preecher{
     height: 20px;
     width: 220px;
     display: flex;
@@ -154,8 +157,6 @@ body {
     border-radius: 3px;
     margin-bottom: 5px;
     padding-left: 5px;
-}
-.preencher p{
     text-align: left;
 }
 .instagrampng{

@@ -6,7 +6,6 @@
     font-family: sans-serif;
     font-size: 12px;
 }
-
 body {
     width: 100%;
     min-height: 100vh;
@@ -18,12 +17,66 @@ body {
     justify-content: space-around;
     align-content: space-around;
 }
+.corpo1{
+    min-width: 350px;
+    max-width: 1000px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.corpo2 {
+    display: flex;
+    height: 80%;
+    align-items: flex-start;
+}
+.instagram-divisor {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.instagram-celular{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 23rem;
+    margin-right: 2.2rem;
+}
+.instagram-celular img{
+    margin-top: 3rem;
+    height: 43rem;
+}
 .bodydireito{
     align-items: center;
     justify-content: center;
     justify-items: center;
     height: 35rem;
     width: 25rem;
+}
+.instagram-login{
+    justify-content: center;
+    align-items: center;
+    height: 35rem;
+    width: 25rem;
+}
+.caixas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 1.3rem 0;
+    border: 1px solid lightgray;
+    margin-bottom: 10px;
+}
+.obter-apps{
+    margin: 18px;
+}
+.obter-apps p{
+    font-size: 12px;
+    text-align: center;
+    margin: 18px;
 }
 .bodydireito p{
     font-size: 10px;
@@ -85,36 +138,7 @@ body {
 .cadastre-se{
     color: #0095f6;
 }
-.corpo1{
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.corpo2 {
-    display: flex;
-    height: 100vh;
-    align-items: center;
-    flex-wrap: wrap;
-}
-.instagram-divisor{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-}
-.caixas{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
-    background-color: #ffffff;
-    width: 100%;
-    padding: 1.3rem 0;
-    border: 1px solid lightgray;
-    margin-bottom: 10px;
-}
+
 .preecher{
     color: #8e8e8e;
 }
@@ -142,12 +166,7 @@ body {
     height: 42px;
     width: 12rem;
 }
-.instagram-login{
-    justify-content: center;
-    align-items: center;
-    height: 35rem;
-    width: 25rem;
-}
+
 .acc{
     padding: 2px;
 }
@@ -163,25 +182,8 @@ body {
 .acc p b{
     font-size: 10px;
 }
-.instagram-celular{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 23rem;
-    margin-right: 2.2rem;
-}
-.instagram-celular img{
-    margin-top: 3rem;
-    height: 43rem;
-}
-.obter-apps{
-    margin: 18px;
-}
-.obter-apps p{
-    font-size: 12px;
-    text-align: center;
-    margin: 18px;
-}
+
+
 .link-apps{
     display: flex;
     align-items: center;
@@ -208,6 +210,12 @@ body {
     line-height: 18px;
     color: rgb(142, 142, 142);
     padding: 5px;
+}
+.links1{
+    font-size: 5px;
+    flex-wrap: wrap;
+    flex: 0 0 auto;
+    justify-content: center;
 }
 .link1{
     flex-wrap: wrap;

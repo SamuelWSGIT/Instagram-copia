@@ -39,12 +39,12 @@ A principal funcionadade desse repositorio :
  - Publicar minhas criações.
  - aprender como criar um readme <3
 
-
 ## Links e Contatos
   - Repository: [https://github.com/SamuelWSGIT]
     - Caso tenha interesse no meu trabalho, fique a vontade pare entrar em contato: 
     - e-mail: mail.samuel.contato@gmail.com
     - telefone:+55(061)99609-8212
+    - Linkedin:https://www.linkedin.com/in/samuel-almeida-ribeiro-220461157/
 
   ## Versão
 

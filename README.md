@@ -43,8 +43,8 @@ A principal funcionadade desse repositorio :
 ## Links
   - Repository: [https://github.com/SamuelWSGIT]
     - Caso tenha interesse no meu trabalho, fique a vontade pare entrar em contato: 
-      -e-mail: mail.samuel.contato@gmail.com
-      -telefone:+55(061)99609-8212
+    - e-mail: mail.samuel.contato@gmail.com
+    - telefone:+55(061)99609-8212
 
   ## Versão
 

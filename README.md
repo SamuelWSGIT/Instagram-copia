@@ -26,6 +26,14 @@ Aqui estão as tecnologias que foram usadas no projeto.
 
 ![Homepage image](https://github.com/SamuelWSGIT/Instagram-copia/blob/main/img/imagensProjetos/instagram_900x700.png)
 
+### 3 - Home page (800x800)
+
+![Homepage image](https://github.com/SamuelWSGIT/Instagram-copia/blob/main/img/imagensProjetos/instagram_800x800.png)
+
+### 4 - Home page (350x600)
+
+![Homepage image](https://github.com/SamuelWSGIT/Instagram-copia/blob/main/img/imagensProjetos/instagram_350x600.png)
+
 ## Características
 A principal funcionadade desse repositorio :
  - Publicar minhas criações.
@@ -34,7 +42,7 @@ A principal funcionadade desse repositorio :
 
 ## Links
   - Repository: [https://github.com/SamuelWSGIT]
-    - Caso tenha interesse no meu trabalho, fique avontade pare entrar em contato: 
+    - Caso tenha interesse no meu trabalho, fique a vontade pare entrar em contato: 
       -e-mail: mail.samuel.contato@gmail.com
       -telefone:+55(061)99609-8212
 

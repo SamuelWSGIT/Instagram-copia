@@ -11,7 +11,6 @@ Esse e a minha work space \o/ aproveite e espero que aprenda bastante.
 ## Technology 
 Aqui estão as tecnologias que foram usadas no projeto.
 
-* Visual Studio Code versão 1.69.2
 * Html 5
 * CSS 3
 

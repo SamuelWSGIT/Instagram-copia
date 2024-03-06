@@ -14,10 +14,6 @@ Aqui estão as tecnologias que foram usadas no projeto.
 * Html 5
 * CSS 3
 
-## Serviços Usados
-
-* Github
-
 ## Visualização
 
 ### 1 - Home page (1080x920)
